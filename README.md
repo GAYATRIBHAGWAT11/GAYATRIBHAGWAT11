@@ -1,9 +1,9 @@
 <!-- ![logo](https://github.com/GAYATRIBHAGWAT11/GAYATRIBHAGWAT11/blob/main/ode.png) -->
 
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
-<h3 align="center">A passionate frontend developer from india!per from India</h3>
+<h3 align="center">A passionate frontend developer from india!</h3>
 
-- 💬 Ask me about **React,javascript, html, css, mongoDB, nodeJS etc.**
+- 💬 Ask me about **React, javascript, html, css, mongoDB, nodeJS etc.**
 
 - 📫 How to reach me **bhagwat.g.j.99@gmail.com**
 
