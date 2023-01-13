@@ -1,4 +1,4 @@
-![logo](https://github.com/GAYATRIBHAGWAT11/GAYATRIBHAGWAT11/blob/main/ode.png)
+<!-- ![logo](https://github.com/GAYATRIBHAGWAT11/GAYATRIBHAGWAT11/blob/main/ode.png) -->
 
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
 <h3 align="center">A passionate frontend developer from india!per from India</h3>
