@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gayatri</h1>
 <h3 align="center">A passionate frontend developer from india!</h3>
-<img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="hello">
+<img align="left" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="hello">
 
 - 💬 Ask me about **React, javascript, html, css, mongoDB, nodeJS etc.**
 
